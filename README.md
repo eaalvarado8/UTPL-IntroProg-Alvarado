@@ -7,7 +7,7 @@ El repositorio se organiza por carpetas cada carpeta corresponde a una actividad
 A continuación se describen cada una de las actividades en orden cronológico:
 * **Tarea Autoestudio 01**: Resumen de conceptos básicos de computación y programación.
 * **Practica 01**: Práctica sobre manejo de GIT.
-### Créditos`
+## Créditos
 ***Autor***: Eric Alvarado
 
 ***Periodo Académico***: Octubre 2019 - Febrero 2020
