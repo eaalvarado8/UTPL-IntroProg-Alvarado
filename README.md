@@ -1,3 +1,3 @@
-![Logo UTPL] (https://alumni.utpl.edu.ec/sites/default/files/logo.png)
+![Logo UTPL] (https://github.com/eaalvarado8/UTPL-IntroProg-Alvarado/blob/master/logo.png)
 ## Introducción a la Programación
 
