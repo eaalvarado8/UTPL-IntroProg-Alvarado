@@ -1,5 +1,5 @@
-#Practica 2
-##Enunciado:
+# Practica 2
+## Enunciado:
 TRADUCIR PSEUDOCÓDIGO A LENGUAJE JAVA Y CONSTRUCCION DE NUEVOS PROGRAMAS
 * **Validar fecha, considerando años bisiestos**: Algoritmo para validar que una fecha ingresada sea correcta. La fecha debe estar entre 1970 y 2019,
 y se consideran años bisiestos.
