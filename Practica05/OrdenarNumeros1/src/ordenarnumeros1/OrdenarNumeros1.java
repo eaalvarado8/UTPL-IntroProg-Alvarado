@@ -29,7 +29,7 @@ public class OrdenarNumeros1 {
         }
         for (int i = 0; i < n - 1; i++) {
             for (int j = 0; j < n - i - 1; j++) {
-                if (num[j + 1] < num[j]) {
+                if (num[j + 1] > num[j]) {
                     aux = num[j + 1];
                     num[j + 1] = num[j];
                     num[j] = aux;
