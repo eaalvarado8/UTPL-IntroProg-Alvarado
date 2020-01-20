@@ -40,7 +40,7 @@ public class EstadisticasAutos1 {
             f.close();
             for (int i = 0; i <= marca.size() - 1; i++) {
                 c++;
-                if(vehiculo[0]("Kia")){
+                if(marca.equals("Kia")){
                     c1++;
                 }
             }
