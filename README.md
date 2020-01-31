@@ -14,3 +14,8 @@ A continuación se describen cada una de las actividades en orden cronológico:
 * **Practica_06**: Programación en Java con estructuras de control, arreglos, funciones y procedimientos
 * **Practica_07**: Programación en Java con estructuras de control, arreglos, funciones, procedimientos y recursividad
 * **Practica_08**: Programación en Java con estructuras de control, arreglos, funciones y procedimientos
+* **Practica_09**: Programación en Java con estructuras de control, arreglos, funciones procedimientos, recursividad y control de Excepciones
+
+### Créditos
+***Autor***: Eric Alvarado
+***Periodo Académico***: Octubre 2019 - Febrero 2020
